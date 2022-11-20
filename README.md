@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mukulmeena 👋
+## 👋 Hi, I’m @mukulmeena 👋
 - 💻 I’m interested in developing user interfaces for web applications and loves to solve problem solving questions 
 - 🌱 I’m currently learning Full Stack web3 Development 
 - 📫 How to reach me meenamukul12@gmail.com
