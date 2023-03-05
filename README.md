@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @mukulmeena 👋
 - 💻 I’m interested in developing web applications and loves to solve problem solving questions 
-- 🌱 I’m currently learning web3. Specially about subgraphs and substreams.
+- 🌱 I’m currently learning web3. Specially about [subgraphs](https://thegraph.com/docs/en/) and [substreams](https://thegraph.com/blog/substreams-parallel-processing/).
 - 📫 How to reach me meenamukul12@gmail.com
 
 <!---
