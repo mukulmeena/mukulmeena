@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @mukulmeena 👋
-- 💻 I’m interested in developing user interfaces for web applications and loves to solve problem solving questions 
-- 🌱 I’m currently learning Full Stack web3 Development 
+- 💻 I’m interested in developing web applications and loves to solve problem solving questions 
+- 🌱 I’m currently learning web3. Specially about subgraphs and substreams.
 - 📫 How to reach me meenamukul12@gmail.com
 
 <!---
